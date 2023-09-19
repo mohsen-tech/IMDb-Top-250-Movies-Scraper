@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+beautifulsoup4
+mysql-connector-python
+matplotlib==3.7.1
+plotly==5.15.0
+streamlit
